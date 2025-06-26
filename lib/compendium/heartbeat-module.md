@@ -19,7 +19,7 @@ Heartbeat modules are available from several sellers. Note that availability may
 
 - [Rienne heartbeat module](https://www.riennecustoms.com/shop/heartbeat-module-preorder-pre-assembled-soldering-required/) — the original module by [Rienne](https://dol-003.info/modders/rienne-customs), the pioneer of the heartbeat module
 - [RockerGaming heartbeat module](https://www.etsy.com/listing/1599189488) — the same module sold by Rocker, a collaborator on the original project
-- [Heartbeat daughter module](https://kadano.biz/kadano-gcc-resistance-heartbeat-daughter-module-only-for-s2e-snapback-modules-and-tb-trigger-modules/) by [Kadano](https://dol-003.info/modders/kadano) (for use with Kadano's snapback module)
+- [Kadano heartbeat module](https://kadano.biz/kadano-gcc-anti-snapback-heartbeat-module-no-reset-with-10-switches-front-wiring-s2f) – a slightly different design that has the wires go to the front side of the mainboard, for more convenient replacement of the stick potentiometers, by [Kadano](https://dol-003.info/modders/kadano), the original inventor of snapback modules. 
 - [Open Heartbeat Module](https://github.com/Savestate2A03/open-heartbeat-module) — an open-source module design you can order from JLCPCB, by [Savestate](https://dol-003.info/modders/savestate)
 
 ## Process
